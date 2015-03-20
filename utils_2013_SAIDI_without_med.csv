@@ -1,0 +1,845 @@
+,Utility Name,State,SAIDI_WOM,Customers,TotalInterruption
+0,Adams Electric Coop,IL,158.0,8715.0,1376970.0
+1,Adams-Columbia Electric Coop,WI,58.0,36014.0,2088812.0
+2,Agralite Electric Coop,MN,141.0,5122.0,722202.0
+5,City of Alameda,CA,7.0,34347.0,240429.0
+9,Alcorn County Elec Power Assn,MS,0.0,19077.0,0.0
+12,Alger-Delta Coop Electric Assn,MI,51.74,9968.0,515744.32
+13,"Allamakee-Clayton El Coop, Inc",IA,97.0,8999.0,872903.0
+14,Altamaha Electric Member Corp,GA,35.0,24983.0,874405.0
+15,City of Altus - (OK),OK,58.0,9385.0,544330.0
+16,City of Ames - (IA),IA,23.0,24665.0,567295.0
+17,Amicalola Electric Member Corp,GA,333.0,45430.0,15128190.0
+18,City of Anaheim - (CA),CA,53.0,115577.0,6125581.0
+19,Anchorage Municipal Light and Power,AK,48.0,30832.0,1479936.0
+21,Connexus Energy,MN,30.729,127553.8,3919600.7202
+25,Appalachian Power Co,VA,331.0,523717.0,173350327.0
+26,Appalachian Power Co,WV,596.0,433660.0,258461360.0
+27,Arizona Public Service Co,AZ,71.0,1147711.0,81487481.0
+28,Entergy Arkansas Inc,AR,253.7,708246.0,179682010.2
+29,Atlantic City Electric Co,NJ,135.0,537622.0,72578970.0
+32,Austin Energy,TX,46.29,432000.0,19997280.0
+33,City of Azusa,CA,54.899,16169.0,887661.931
+35,Baldwin County El Member Corp,AL,1.0,68655.0,68655.0
+36,Baltimore Gas & Electric Co,MD,84.0,1241126.0,104254584.0
+38,Emera Maine,ME,6.68,120089.0,802194.52
+41,Barron Electric Coop,WI,2.0,18030.0,36060.0
+42,"Bartlett Electric Coop, Inc",TX,25.0,10799.0,269975.0
+44,City of Batavia - (IL),IL,20.0,10866.0,217320.0
+46,"Beltrami Electric Coop, Inc",MN,138.0,20013.0,2761794.0
+47,PUD No 1 of Benton County,WA,33.0,48128.0,1588224.0
+49,Berkeley Electric Coop Inc,SC,138.0,86126.0,11885388.0
+52,Big Sandy Rural Elec Coop Corp,KY,129.0,0.0,0.0
+56,Blue Grass Energy Coop Corp,KY,111.0,55046.0,6110106.0
+57,Blue Ridge Elec Member Corp - (NC),NC,73.0,73150.0,5339950.0
+58,Blue Ridge Electric Coop Inc - (SC),SC,109.45,63643.0,6965726.350000001
+63,Bolivar Energy Authority,TN,164.403,11105.0,1825695.315
+64,Boone Electric Coop,MO,54.14,30283.0,1639521.62
+65,"Bowie-Cass Electric Coop, Inc",TX,397.0,35427.0,14064519.0
+68,Bozrah Light & Power Company,CT,100.0,2663.0,266300.0
+71,City of Bristol - (TN),TN,29.2,32907.0,960884.4
+72,Bristol Virginia Utilities,VA,0.758,16173.0,12259.134
+78,"Butler Rural El Coop Assn, Inc - (KS)",KS,3.0,7178.0,21534.0
+79,Butler Rural Electric Coop Inc - (OH),OH,130.78,11209.0,1465913.02
+90,"Carbon Power & Light, Inc",WY,250.0,6269.0,1567250.0
+91,Duke Energy Progress - (NC),NC,106.0,1340045.0,142044770.0
+92,Duke Energy Progress - (NC),SC,136.0,0.0,0.0
+94,Carroll Electric Member Corp - (GA),GA,88.0,49361.0,4343768.0
+97,Central Alabama Electric Coop,AL,121.79,40864.0,4976826.5600000005
+98,"Central Rural Electric Cooperative, Inc",OK,186.0,19279.0,3585894.0
+99,"Central Florida Elec Coop, Inc",FL,161.0,32389.0,5214629.0
+100,Central Georgia El Member Corp,GA,117.0,52307.0,6119919.0
+101,Central Hudson Gas & Elec Corp,NY,0.105,299591.0,31457.055
+102,Central Electric Membership Corp. - (NC),NC,8.0,22000.0,176000.0
+103,Central Lincoln People's Ut Dt,OR,0.891,38500.0,34303.5
+105,Central Maine Power Co,ME,3.65,611967.0,2233679.55
+106,Central Missouri Elec Coop Inc,MO,135.516,10470.0,1418852.52
+108,AEP Texas Central Company,TX,152.0,803426.0,122120752.0
+110,Central Virginia Electric Coop,VA,245.0,35141.0,8609545.0
+111,City of Centralia - (WA),WA,62.0,10030.0,621860.0
+112,"Chariton Valley Elec Coop, Inc",IA,59.0,6090.0,359310.0
+114,City of Chanute,KS,1.0,5712.0,5712.0
+116,City of Chattanooga - (TN),GA,78.33,0.0,0.0
+117,City of Chattanooga - (TN),TN,78.33,173464.0,13587435.12
+120,Cherryland Electric Coop Inc,MI,83.0,33912.0,2814696.0
+121,Cheyenne Light Fuel & Power Co,WY,25.0,39517.0,987925.0
+122,City of Chicopee - (MA),MA,40.0,25699.0,1027960.0
+123,Cimarron Electric Coop,OK,13.7,15086.0,206678.19999999998
+124,"Choctawhatche Elec Coop, Inc",FL,63.0,44519.0,2804697.0
+125,"Choptank Electric Coop, Inc",MD,311.0,51654.0,16064394.0
+126,Duke Energy Ohio Inc,OH,115.0,695426.0,79973990.0
+128,Citizens Electric Corporation - (MO),MO,79.0,26650.0,2105350.0
+129,City of Nixa - (MO),MO,18.0,8832.0,158976.0
+131,PUD No 1 of Clark County - (WA),WA,20.5,185000.0,3792500.0
+132,Clark Energy Coop Inc - (KY),KY,107.0,25985.0,2780395.0
+133,City of Clarksville - (TN),TN,64.1,64490.0,4133808.9999999995
+136,Clearwater Power Company,ID,844.0,10395.0,8773380.0
+137,Cleveland Electric Illum Co,OH,89.0,730745.0,65036305.0
+138,"Clay Electric Cooperative, Inc",FL,2.0,165459.0,330918.0
+139,City of Cleveland - (TN),TN,28.61,30486.0,872204.46
+143,Clinton Combined Utility Sys,SC,49.0,4127.0,202223.0
+144,City of Clinton - (TN),TN,122.4,28982.0,3547396.8000000003
+145,Cloverland Electric Co-op,MI,284.0,42732.0,12135888.0
+146,Coast Electric Power Assn,MS,25.04,78817.0,1973577.68
+147,Coastal Electric Member Corp,GA,70.0,16764.0,1173480.0
+148,"Coastal Electric Coop, Inc",SC,145.1,11569.0,1678661.9
+152,Cobb Electric Membership Corp,GA,35.0,190932.0,6682620.0
+155,Columbia Power Coop Assn Inc,OR,813.0,1823.0,1482099.0
+159,City of Columbus - (OH),OH,83.0,14446.0,1199018.0
+160,Commonwealth Edison Co,IL,62.0,3803907.0,235842234.0
+161,Community Electric Coop,VA,266.0,10899.0,2899134.0
+162,Concho Valley Elec Coop Inc,TX,6.0,13152.0,78912.0
+163,City of Concord - (NC),NC,83.0,28935.0,2401605.0
+164,Connecticut Light & Power Co,CT,98.0,0.0,0.0
+166,Consolidated Electric Coop,MO,95.0,7840.0,744800.0
+167,Consumers Energy Co,MI,218.0,1786588.0,389476184.0
+170,Conway Corporation,AR,38.0,29468.0,1119784.0
+171,"Coos-Curry Electric Coop, Inc",OR,83.0,17730.0,1471590.0
+172,Corn Belt Energy Corporation,IL,281.4,34985.0,9844779.0
+174,"Cotton Electric Coop, Inc",OK,174.0,21986.0,3825564.0
+176,Coweta-Fayette El Member Corp,GA,75.0,75657.0,5674275.0
+180,"Crawford Electric Coop, Inc",MO,352.2,19554.0,6886918.8
+181,Crow Wing Cooperative Power & Light Comp,MN,73.0,41822.0,3053006.0
+182,"Cullman Electric Coop, Inc",AL,381.87,42399.0,16190906.13
+183,"Cumberland Valley Electric, Inc.",KY,143.0,23754.0,3396822.0
+188,Dakota Valley Elec Coop Inc,ND,140.0,6268.0,877520.0
+189,City of Danville - (VA),VA,0.0,43851.0,0.0
+191,Dayton Power & Light Co,OH,80.0,572677.0,45814160.0
+193,Decatur Utilities,AL,0.0,26770.0,0.0
+195,Deep East Texas Elec Coop Inc,TX,486.0,41633.0,20233638.0
+196,Delmarva Power,DE,140.0,303345.0,42468300.0
+197,Delmarva Power,MD,201.0,200544.0,40309344.0
+198,City of Denton - (TX),TX,32.0,49613.0,1587616.0
+199,Delaware Electric Cooperative,DE,94.0,85546.0,8041324.0
+200,"Denton County Elec Coop, Inc",TX,36.25,176278.0,6390077.5
+201,Delta Montrose Electric Assn,CO,47.0,32125.0,1509875.0
+202,DTE Electric Company,MI,180.0,2181974.0,392755320.0
+206,Dixie Electric Coop,AL,2.919,22215.0,64845.585
+208,Duck River Elec Member Corp,TN,137.3,70733.0,9711640.9
+209,"Duke Energy Carolinas, LLC",NC,133.0,1869042.0,248582586.0
+210,"Duke Energy Carolinas, LLC",SC,132.0,551699.0,72824268.0
+211,Dunn County Electric Coop,WI,97.0,9568.0,928096.0
+215,East Central Energy,MN,66.0,58067.0,3832422.0
+217,East Mississippi Elec Pwr Assn,MS,227.8,0.0,0.0
+219,Eastern Illinois Elec Coop,IL,134.0,13584.0,1820256.0
+221,East Central Oklahoma Elec Coop Inc,OK,4.0,33198.0,132792.0
+222,Eastern Iowa Light & Power Coop,IA,1.59,23306.0,37056.54
+225,"Edisto Electric Coop, Inc",SC,61.0,19918.0,1214998.0
+226,Edgecombe-Martin County E M C,NC,147.23,11420.0,1681366.5999999999
+228,El Paso Electric Co,NM,53.0,93710.0,4966630.0
+229,El Paso Electric Co,TX,38.0,300176.0,11406688.0
+230,City of Elk River,MN,35.0,9285.0,324975.0
+232,Empire District Electric Co,AR,130.0,4940.0,642200.0
+233,Empire District Electric Co,KS,155.0,10757.0,1667335.0
+234,Empire District Electric Co,MO,146.0,160799.0,23476654.0
+235,Empire District Electric Co,OK,148.0,6690.0,990120.0
+236,"Empire Electric Assn, Inc",CO,1.0,15801.0,15801.0
+238,Village of Fairport - (NY),NY,0.027,16751.0,452.277
+240,City of Eugene - (OR),OR,38.0,88381.0,3358478.0
+241,"Farmers Electric Coop, Inc - (IA)",IA,116.0,4770.0,553320.0
+243,Farmers Electric Coop - (IA),IA,35.0,650.0,22750.0
+248,"Farmers Electric Coop, Inc - (TX)",TX,120.0,48168.0,5780160.0
+249,Farmers Rural Electric Coop Corp - (KY),KY,177.0,24257.0,4293489.0
+251,City of Farmington - (NM),NM,104.0,44361.0,4613544.0
+252,City of Fayetteville,TN,68.791,19300.0,1327666.3
+253,Federated Rural Electric Assn,MN,74.0,5068.0,375032.0
+255,"Firelands Electric Coop, Inc",OH,17.0,9016.0,153272.0
+256,First Electric Coop Corp,AR,193.0,88522.0,17084746.0
+257,Fitchburg Gas & Elec Light Co,MA,111.82,29232.0,3268722.2399999998
+258,Flathead Electric Coop Inc,MT,148.0,60944.0,9019712.0
+259,Flint Electric Membership Corp,GA,89.0,82038.0,7301382.0
+260,"Flint Hills Rural E C A, Inc",KS,252.0,6621.0,1668492.0
+261,Fleming-Mason Energy Coop Inc,KY,81.0,23480.0,1901880.0
+262,Florida Power & Light Co,FL,66.55,4656383.0,309882288.65
+265,Foley Board of Utilities,AL,138.3,42121.0,5825334.300000001
+268,Fort Loudoun Electric Coop,TN,249.0,30467.0,7586283.0
+271,4-County Electric Power Assn,MS,173.4,45260.0,7848084.0
+272,Easley Combined Utility System,SC,93.0,14764.0,1373052.0
+278,Frontier Power Company,OH,170.0,9049.0,1538330.0
+282,"Garkane Energy Coop, Inc",UT,175.71,12845.0,2256994.95
+285,GreyStone Power Corporation,GA,1.511,120241.0,181684.15099999998
+289,Gibson Electric Members Corp,TN,170.23,34934.0,5946814.819999999
+290,"Glades Electric Coop, Inc",FL,3427.0,15971.0,54732617.0
+294,Golden Valley Elec Assn Inc,AK,115.22,44997.0,5184554.34
+296,Goodhue County Coop Elec Assn,MN,31.0,4962.0,153822.0
+300,"Grayson-Collin Elec Coop, Inc",TX,124.0,39489.0,4896636.0
+303,City of Greeneville - (TN),TN,131.4,37370.0,4910418.0
+304,City of Greenfield - (IN),IN,27.438,10000.0,274380.0
+309,Groton Dept of Utilities - (CT),CT,57.0,0.0,0.0
+311,Guadalupe Valley Elec Coop Inc,TX,0.51,73479.0,37474.29
+316,Habersham Electric Membership Corp,GA,146.0,33917.0,4951882.0
+320,Hancock-Wood Electric Coop Inc,OH,184.9,12870.0,2379663.0
+321,City of Hannibal - (MO),MO,72.991,8911.0,650422.801
+323,Harrison County Rural E M C,IN,114.0,23175.0,2641950.0
+325,City of Harrisonville - (MO),MO,6.0,4704.0,28224.0
+326,Hart Electric Member Corp,GA,1.0,35054.0,35054.0
+331,Hawkeye Tri-County El Coop Inc,IA,108.0,6726.0,726408.0
+332,Heartland Power Coop,IA,48.0,5218.0,250464.0
+333,Haywood Electric Member Corp,NC,301.0,26245.0,7899745.0
+336,Hendricks County Rural E M C,IN,64.0,29119.0,1863616.0
+338,Town of High Point,NC,57.0,39731.0,2264667.0
+341,City of Holland,MI,35.0,27672.0,968520.0
+342,Holmes-Wayne Electric Coop Inc,OH,340.0,17061.0,5800740.0
+344,"Holy Cross Electric Assn, Inc",CO,65.0,55380.0,3599700.0
+345,City of Holyoke - (MA),MA,34.04,17246.0,587053.84
+346,Horry Electric Coop Inc,SC,60.8,70688.0,4297830.399999999
+350,CenterPoint Energy,TX,107.87,2436565.0,262832266.55
+355,City of Idaho Falls - (ID),ID,0.0,27100.0,0.0
+356,Idaho Power Co,ID,145.0,486306.0,70514370.0
+357,Idaho Power Co,OR,277.0,18349.0,5082673.0
+358,Imperial Irrigation District,CA,40.0,148062.0,5922480.0
+359,City of Independence - (IA),IA,5.346,3187.0,17037.702
+360,Indianapolis Power & Light Co,IN,48.0,474120.0,22757760.0
+361,Indianola Municipal Utilities,IA,9.0,0.0,0.0
+362,Inter County Energy Coop Corp,KY,100.0,25637.0,2563700.0
+363,Indiana Michigan Power Co,IN,114.0,456458.0,52036212.0
+364,Indiana Michigan Power Co,MI,268.0,127450.0,34156600.0
+367,Iowa Lakes Electric Coop,IA,59.48,12433.0,739514.84
+368,Itasca-Mantrap Co-op Electrical Assn,MN,127.6,11461.0,1462423.5999999999
+369,Jackson Energy Coop Corp - (KY),KY,165.54,49420.0,8180986.8
+370,Jackson County Rural E M C - (IN),IN,1.497,24090.0,36062.73
+371,Jackson Electric Member Corp - (GA),GA,75.0,206321.0,15474075.0
+372,City of Jackson - (MO),MO,35.0,6892.0,241220.0
+373,Jackson Purchase Energy Corporation,KY,148.0,29303.0,4336844.0
+374,City of Jackson - (TN),TN,76.02,35025.0,2662600.5
+380,"Jefferson Davis Elec Coop, Inc",LA,0.0,9608.0,0.0
+381,Jefferson Electric Member Corp,GA,117.0,33174.0,3881358.0
+382,"Jemez Mountains Elec Coop, Inc",NM,215.0,31000.0,6665000.0
+383,Jersey Central Power & Lt Co,NJ,121.0,1105123.0,133719883.0
+386,Johnson City - (TN),TN,64.423,75008.0,4832240.384000001
+387,Johnson County Rural E M C,IN,31.0,24638.0,763778.0
+389,Kenergy Corp,KY,109.0,55489.0,6048301.0
+391,City of Kansas City - (KS),KS,353.904,57837.0,20468745.648
+392,Kansas City Power & Light Co,KS,55.0,251401.0,13827055.0
+393,Kansas City Power & Light Co,MO,70.0,276535.0,19357450.0
+394,Kansas Gas & Electric Co,KS,127.54,316853.0,40411431.620000005
+396,Kaw Valley Electric Coop Inc,KS,136.5,9329.0,1273408.5
+397,City of Kaukauna,WI,16.0,14720.0,235520.0
+399,"Kiamichi Electric Coop, Inc",OK,3.7,21254.0,78639.8
+400,Kentucky Utilities Co,KY,107.0,512137.0,54798659.0
+401,Kentucky Utilities Co,VA,103.0,28741.0,2960323.0
+404,Kingsport Power Co,TN,221.0,47243.0,10440703.0
+408,Knoxville Utilities Board,TN,1.84,196192.0,360993.28
+411,"La Plata Electric Assn, Inc",CO,74.0,40668.0,3009432.0
+413,City of LaFollette,TN,4.084,21535.0,87948.93999999999
+414,"Lake Region Electric Coop, Inc - (OK)",OK,184.0,24102.0,4434768.0
+416,Lake Region Electric Cooperative - (MN),MN,114.0,26351.0,3004014.0
+417,City of Lakeland - (FL),FL,78.216,128947.0,10085718.552
+418,Southern Rivers Energy,GA,212.91,18295.0,3895188.4499999997
+421,Lake Country Power,MN,249.0,48534.0,12084966.0
+423,"Laurens Electric Coop, Inc",SC,118.4,0.0,0.0
+430,PUD No 1 of Lewis County,WA,203.362,30942.0,6292427.004
+434,Linn County REC,IA,95.0,25909.0,2461355.0
+437,Long Island Power Authority,NY,57.0,1115781.0,63599517.0
+439,"Lorain-Medina R E C, Inc",OH,85.289,16066.0,1370253.074
+440,Logan County Coop Power & Light,OH,43.4,4595.0,199423.0
+441,Los Alamos County,NM,38.0,8850.0,336300.0
+442,Los Angeles Department of Water & Power,CA,65.0,1596912.0,103799280.0
+443,Entergy Louisiana LLC,LA,127.3,661371.0,84192528.3
+444,Louisville Gas & Electric Co,KY,80.0,406793.0,32543440.0
+446,City of Loveland - (CO),CO,29.0,32765.0,950185.0
+447,Lumbee River Elec Member Corp,NC,122.0,57328.0,6994016.0
+448,Lyon Rural Electric Coop,IA,78.16,2120.0,165699.19999999998
+450,Lyon-Lincoln Electric Coop Inc,MN,49.0,3968.0,194432.0
+453,City of Macon - (MO),MO,22.0,3146.0,69212.0
+454,Madison Gas & Electric Co,WI,28.0,142528.0,3990784.0
+455,Magic Valley Electric Coop Inc,TX,59.0,100835.0,5949265.0
+456,Magnolia Electric Power Assn,MS,208.0,31164.0,6482112.0
+457,Maine Public Service Co,ME,4.56,36043.0,164356.08
+458,City of Manassas - (VA),VA,5.0,15746.0,78730.0
+459,Manitowoc Public Utilities,WI,12.0,17821.0,213852.0
+460,City of Marietta - (GA),GA,71.0,41843.0,2970853.0
+462,City of Marquette - (MI),MI,50.0,16557.0,827850.0
+465,Consumers Energy,IA,2.0,6014.0,12028.0
+466,Massachusetts Electric Co,MA,91.63,1273512.0,116691904.55999999
+470,McLeod Cooperative Power Assn,MN,97.0,6603.0,640491.0
+478,Meeker Coop Light & Power Assn,MN,165.0,8688.0,1433520.0
+479,Meade County Rural E C C,KY,97.0,29263.0,2838511.0
+480,Mecklenburg Electric Cooperative,VA,187.0,31164.0,5827668.0
+484,Nodak Electric Coop Inc,ND,219.0,21784.0,4770696.0
+486,MidAmerican Energy Co,IA,94.0,651444.0,61235736.0
+487,MidAmerican Energy Co,IL,160.0,84686.0,13549760.0
+488,MidAmerican Energy Co,SD,71.0,4627.0,328517.0
+490,Midwest Energy Cooperative,MI,462.0,35646.0,16468452.0
+491,Metropolitan Edison Co,PA,120.0,548887.0,65866440.0
+494,Mid-South Electric Coop Assn,TX,3.0,25879.0,77637.0
+495,"Mid-Yellowstone Elec Coop, Inc",MT,269.0,1987.0,534503.0
+497,"Midwest Electric, Inc",OH,87.9,10548.0,927169.2000000001
+498,Midwest Energy Inc,KS,2.84,49802.0,141437.68
+499,City of Milan,TN,120.39,8635.0,1039567.65
+500,Midwest Electric Member Corp,NE,150.0,6331.0,949650.0
+501,Mille Lacs Energy Cooperative,MN,142.0,14902.0,2116084.0
+502,Maquoketa Valley Rrl Elec Coop,IA,42.0,15537.0,652554.0
+503,Minnesota Power Inc,MN,120.0,133534.0,16024080.0
+506,Entergy Mississippi Inc,MS,140.6,445426.0,62626895.599999994
+508,"Missoula Electric Coop, Inc",MT,245.8,14414.0,3542961.2
+509,KCP&L Greater Missouri Operations Co.,MO,103.0,308938.0,31820614.0
+510,Mitchell Electric Member Corp,GA,5.0,24996.0,124980.0
+512,Monongahela Power Co,WV,305.0,386373.0,117843765.0
+513,City of Monroe - (NC),NC,23.0,10441.0,240143.0
+514,"Monroe County Elec Coop, Inc",IL,166.0,7206.0,1196196.0
+515,NorthWestern Energy LLC - (MT),MT,133.0,350175.0,46573275.0
+520,South Central Indiana REMC,IN,301.0,33396.0,10052196.0
+524,Consolidated Electric Coop Inc,OH,118.0,16446.0,1940628.0
+525,"Mountain Electric Coop, Inc",NC,239.0,18250.0,4361750.0
+526,"Mountain Electric Coop, Inc",TN,226.0,15100.0,3412600.0
+530,City of Murfreesboro,TN,0.0,53460.0,0.0
+533,Northern Plains Electric Coop,ND,107.0,11629.0,1244303.0
+534,Nantucket Electric Co,MA,54.58,12901.0,704136.58
+536,The Narragansett Electric Co,RI,57.28,485428.0,27805315.84
+540,Nebraska Public Power District,NE,61.18,98789.0,6043911.02
+541,"Nemaha-Marshall E C A, Inc",KS,171.397,3351.0,574351.347
+542,Nevada Power Co,NV,41.0,871368.0,35726088.0
+543,City of New Bern - (NC),NC,6.0,21531.0,129186.0
+544,City of New Braunfels - (TX),TX,22.0,31660.0,696520.0
+545,New Castle Municipal Serv Comm,DE,43.0,2641.0,113563.0
+548,Entergy New Orleans Inc,LA,90.3,189713.0,17131083.9
+550,New River Light & Power Co,NC,7.0,7751.0,54257.0
+554,"Newnan Wtr, Sewer & Light Comm",GA,25.0,9593.0,239825.0
+555,City of Newton - (NC),NC,6.0,4495.0,26970.0
+556,Niagara Mohawk Power Corp.,NY,118.0,1605502.0,189449236.0
+558,Noble County R E M C,IN,98.0,11017.0,1079666.0
+559,Nolin Rural Electric Coop Corp,KY,55.0,34147.0,1878085.0
+560,Norris Public Power District,NE,63.9,18460.0,1179594.0
+562,"North Arkansas Elec Coop, Inc",AR,251.29,35432.0,8903707.28
+563,Town of North Attleborough - (MA),MA,10.983,13257.0,145601.631
+564,Nobles Cooperative Electric,MN,204.0,5092.0,1038768.0
+566,"North Central Elec Coop, Inc",OH,216.284,9672.0,2091898.848
+569,"North Western Elec Coop, Inc",OH,85.0,5868.0,498780.0
+572,Northcentral Mississippi E P A,MS,108.3,28908.0,3130736.4
+573,"Northern Electric Coop, Inc",SD,48.96,6086.0,297970.56
+576,Northern States Power Co,WI,88.0,249376.0,21945088.0
+577,Northern States Power Co - Minnesota,MN,95.0,1214613.0,115388235.0
+578,Northern States Power Co - Minnesota,ND,71.0,92663.0,6579073.0
+579,Northern States Power Co - Minnesota,SD,148.0,93858.0,13890984.0
+583,NorthWestern Energy - (SD),SD,69.0,61561.0,4247709.0
+585,City of Norwich - (CT),CT,42.0,20900.0,877800.0
+587,Oakdale Electric Coop,WI,2.0,16238.0,32476.0
+588,City of Ocala,FL,147.0,48000.0,7056000.0
+590,Ohio Edison Co,OH,78.0,1032017.0,80497326.0
+591,Ohio Power Co,OH,164.0,1453647.0,238398108.0
+593,Oklahoma Electric Coop Inc,OK,118.0,51128.0,6033104.0
+600,Orcas Power & Light Coop,WA,0.0,12720.0,0.0
+601,"Tri-County Electric Coop, Inc",SC,0.809,17593.0,14232.737000000001
+604,"Osceola Electric Coop, Inc",IA,345.0,1173.0,404685.0
+605,Otter Tail Power Co,MN,100.0,130200.0,13020000.0
+607,City of Owatonna - (MN),MN,3.023,11934.0,36076.482
+608,Owen Electric Coop Inc,KY,99.0,58095.0,5751405.0
+609,City of Owensboro - (KY),KY,83.0,26417.0,2192611.0
+610,Ozarks Electric Coop Corp - (AR),AR,71.0,57129.0,4056159.0
+611,Pacific Gas & Electric Co,CA,96.5,5380759.0,519243243.5
+612,PacifiCorp,CA,239.176,48578.0,11618691.728
+613,PacifiCorp,ID,272.246,75934.0,20672727.764
+614,PacifiCorp,OR,112.706,599772.0,67597903.032
+615,PacifiCorp,UT,187.128,856927.0,160355035.656
+616,PacifiCorp,WA,117.303,135475.0,15891623.924999999
+617,PacifiCorp,WY,178.012,146821.0,26135899.852
+619,Palmetto Electric Coop Inc,SC,49.963,66083.0,3301704.929
+620,City of Palo Alto - (CA),CA,19.0,28600.0,543400.0
+623,People's Cooperative Services,MN,74.99,14683.0,1101078.17
+624,Parke County Rural E M C,IN,158.0,12211.0,1929338.0
+625,City of Pasadena - (CA),CA,7.36,63577.0,467926.72000000003
+626,"Pee Dee Electric Coop, Inc",SC,104.0,30245.0,3145480.0
+627,Pearl River Valley El Pwr Assn,MS,2.0,47490.0,94980.0
+628,"Peace River Electric Coop, Inc",FL,155.0,35334.0,5476770.0
+633,Pennsylvania Electric Co,PA,161.0,583116.0,93881676.0
+634,PPL Electric Utilities Corp,PA,91.0,1395325.0,126974575.0
+635,Pennsylvania Power Co,PA,102.0,159195.0,16237890.0
+636,Pee Dee Electric Member Corp,NC,159.0,20512.0,3261408.0
+637,Pennyrile Rural Electric Coop,KY,199.1,45958.0,9150237.799999999
+638,Petit Jean Electric Coop Corp,AR,4.0,19781.0,79124.0
+639,PECO Energy Co,PA,66.5,1696849.0,112840458.5
+641,Piedmont Electric Member Corp,NC,55.0,31108.0,1710940.0
+643,"Pioneer Rural Elec Coop, Inc - (OH)",OH,75.7,17164.0,1299314.8
+644,"Pioneer Electric Coop, Inc - (KS)",KS,184.0,17001.0,3128184.0
+645,City of Piqua - (OH),OH,13.609,10717.0,145847.653
+646,"Platte-Clay Electric Coop, Inc",MO,76.0,24312.0,1847712.0
+648,Polk County Rural Pub Pwr Dist,NE,93.0,4631.0,430683.0
+650,Portland General Electric Co,OR,62.0,841127.0,52149874.0
+651,"Poudre Valley R  E  A, Inc",CO,204.0,36099.0,7364196.0
+652,The Potomac Edison Company,MD,143.07,252728.0,36157794.96
+653,The Potomac Edison Company,WV,151.26,134642.0,20365948.919999998
+654,Potomac Electric Power Co,DC,124.0,261044.0,32369456.0
+655,Potomac Electric Power Co,MD,136.0,538629.0,73253544.0
+657,Powell Valley Electric Coop,TN,136.889,22729.0,3111350.0810000002
+658,Powell Valley Electric Coop,VA,58.667,8072.0,473560.02400000003
+660,Presque Isle Elec & Gas Coop,MI,180.0,33741.0,6073380.0
+662,Price Electric Coop Inc,WI,269.0,8989.3,2418121.6999999997
+663,City of Princeton - (KY),KY,43.0,3894.0,167442.0
+666,Public Service Co of Colorado,CO,94.0,1323861.0,124442934.0
+667,Duke Energy Indiana Inc,IN,138.0,797929.0,110114202.0
+668,Public Service Co of NH,NH,137.0,501415.0,68693855.0
+669,Public Service Co of NM,NM,84.0,506963.0,42584892.0
+670,Public Service Co of Oklahoma,OK,99.0,535673.0,53031627.0
+671,Puget Sound Energy Inc,WA,124.0,1100259.0,136432116.0
+672,City of Pulaski - (TN),TN,1.153,14183.0,16352.999
+674,Randolph Electric Member Corp,NC,93.0,31168.0,2898624.0
+675,Rayle Electric Membership Corp,GA,133.082,18245.0,2428081.09
+676,Town of Reading - (MA),MA,11.84,29500.0,349280.0
+678,Renville-Sibley Coop Pwr Assn,MN,84.0,1914.0,160776.0
+679,City of Richland Center - (WI),WI,67.157,2916.0,195829.81199999998
+680,City of Richland - (WA),WA,85.0,25483.0,2166055.0
+683,Riverland Energy Cooperative,WI,88.0,17072.0,1502336.0
+686,City of Riverside - (CA),CA,54.92,109517.0,6014673.640000001
+687,Roanoke Electric Member Corp,NC,116.9,14511.0,1696335.9000000001
+688,"Navasota Valley Elec Coop, Inc",TX,349.0,18716.0,6531884.0
+689,Rochester Public Utilities,MN,34.0,50249.0,1708466.0
+693,City of Rockwood - (TN),TN,0.0,14542.0,0.0
+694,City of Rocky Mount - (NC),NC,37.0,27420.0,1014540.0
+695,City of Rolla - (MO),MO,39.0,9369.0,365391.0
+696,City of Roseville - (CA),CA,7.354,55577.0,408713.25800000003
+697,Runestone Electric Assn,MN,3.0,13858.0,41574.0
+698,"Rural Electric Coop, Inc",OK,162.0,11113.0,1800306.0
+699,"Rusk County Electric Coop, Inc",TX,434.0,21991.0,9544094.0
+701,Rutherford Elec Member Corp,NC,59.0,67804.0,4000436.0
+704,Salt River Project,AZ,44.926,963012.0,43264277.112
+705,Salt River Electric Coop Corp,KY,88.0,48636.0,4279968.0
+707,City of San Antonio - (TX),TX,51.0,729413.0,37200063.0
+708,"Santee Electric Coop, Inc",SC,132.0,43999.0,5807868.0
+709,San Diego Gas & Electric Co,CA,60.0,1406947.0,84416820.0
+711,Sam Houston Electric Coop Inc,TX,296.0,68618.0,20310928.0
+714,"San Bernard Electric Coop, Inc",TX,199.0,25000.0,4975000.0
+717,City of Sauk Centre - (MN),MN,3.0,2272.0,6816.0
+719,Three Rivers Electric Coop,MO,99.707,21703.0,2163941.0209999997
+722,"Heartland Rural Elec Coop, Inc",KS,334.114,11497.0,3841308.658
+723,Sawnee Electric Membership Corporation,GA,53.0,155906.0,8263018.0
+724,City of Seattle - (WA),WA,69.0,409619.0,28263711.0
+726,Sedgwick County El Coop Assn Inc,KS,99.207,6385.0,633436.695
+727,Sequachee Valley Electric Coop,TN,142.22,34926.8,4967289.496
+729,Shakopee Public Utilities Comm,MN,31.0,16508.0,511748.0
+734,"Shelby Energy Co-op, Inc",KY,114.0,15426.0,1758564.0
+735,Shenandoah Valley Elec Coop,VA,4.0,88694.0,354776.0
+736,Sierra Pacific Power Co,NV,81.0,326050.0,26410050.0
+738,City of Siloam Springs - (AR),AR,16.0,7053.0,112848.0
+739,Singing River Elec Pwr Assn,MS,125.0,71050.0,8881250.0
+741,Sioux Valley SW Elec Coop,MN,53.96,2980.0,160800.8
+742,Sioux Valley SW Elec Coop,SD,96.27,19426.0,1870141.02
+746,"South Alabama Elec Coop, Inc",AL,110.0,20596.0,2265560.0
+747,South Carolina Electric&Gas Company,SC,92.0,669587.0,61602004.0
+748,South Carolina Public Service Authority,SC,18.766,165746.0,3110389.4359999998
+749,South Kentucky Rural E C C,KY,164.0,67934.0,11141176.0
+752,"Southeastern IL Elec Coop, Inc",IL,132.0,22605.0,2983860.0
+754,Southern California Edison Co,CA,95.0,4977729.0,472884255.0
+757,Southern Maryland Elec Coop Inc,MD,1.2,152941.0,183529.19999999998
+758,"Southern Iowa Elec Coop, Inc",IA,85.0,4702.0,399670.0
+762,Southwestern Electric Coop Inc - (IL),IL,199.0,22410.0,4459590.0
+763,Southwestern Electric Power Co,AR,104.0,115046.0,11964784.0
+764,Southwestern Electric Power Co,LA,251.0,228435.0,57337185.0
+765,Southwestern Electric Power Co,TX,169.0,182541.0,30849429.0
+766,Southwestern Public Service Co,NM,122.0,99176.0,12099472.0
+767,Southwestern Public Service Co,TX,92.0,240190.0,22097480.0
+769,Snapping Shoals El Member Corp,GA,72.0,92785.0,6680520.0
+770,City Utilities of Springfield - (MO),MO,30.275,111175.0,3365823.125
+772,City of Springville - (UT),UT,1.0,10643.0,10643.0
+774,St Croix Electric Coop,WI,42.0,10062.0,422604.0
+776,City of Shasta Lake - (CA),CA,36.2,4481.0,162212.2
+780,City of Starkville,MS,0.0,12745.0,0.0
+781,Stearns Cooperative Elec Assn,MN,112.0,25302.0,2833824.0
+782,City of Statesville - (NC),NC,55.59,13005.0,722947.9500000001
+783,Steele-Waseca Cooperative Electric,MN,35.0,9591.0,335685.0
+784,Town of Sterling - (MA),MA,8.16,3744.0,30551.04
+789,Tallapoosa River Elec Coop Inc,AL,162.0,25702.0,4163724.0
+794,Superior Water and Light Co,WI,38.0,14903.0,566314.0
+795,Surry-Yadkin Elec Member Corp,NC,137.0,27214.0,3728318.0
+796,Suwannee Valley Elec Coop Inc,FL,255.0,24879.0,6344145.0
+797,Taylor Electric Coop - (WI),WI,71.0,4355.0,309205.0
+801,T I P Rural Electric Coop,IA,181.0,6312.0,1142472.0
+802,"Talquin Electric Coop, Inc",FL,4.0,52302.0,209208.0
+805,Taylor County Rural E C C,KY,294.0,26015.0,7648410.0
+806,City of Thomasville - (GA),GA,120.0,12300.0,1476000.0
+807,Tipmont Rural Elec Member Corp,IN,125.0,25204.0,3150500.0
+808,"Tri-County Electric Coop, Inc",IL,146.0,16173.0,2361258.0
+809,Twin County Electric Pwr Assn,MS,206.0,12237.0,2520822.0
+810,Twin Valley Electric Coop Inc,KS,156.4,3188.0,498603.2
+812,The Toledo Edison Co,OH,56.0,303470.0,16994320.0
+813,"Tombigbee Electric Coop, Inc",AL,636.42,9053.0,5761510.26
+814,Powder River Energy Corp,WY,347.0,27784.0,9641048.0
+815,Tri-County Electric Coop,MN,49.0,13265.0,649985.0
+818,"Tri-County Electric Coop, Inc",FL,218.0,17347.0,3781646.0
+819,Tri-County Elec Member Corp,KY,272.2,24005.0,6534161.0
+820,Tri-County Elec Member Corp,TN,312.1,25881.0,8077460.100000001
+821,Trico Electric Cooperative Inc,AZ,64.0,40986.0,2623104.0
+824,Truckee Donner P U D,CA,15.0,13082.0,196230.0
+827,Two Rivers Water & Light,WI,5.797,6190.0,35883.43
+828,Umatilla Electric Coop Assn,OR,379.55,14481.0,5496263.55
+829,"UGI Utilities, Inc",PA,85.0,61871.0,5259035.0
+831,Union Electric Membership Corp - (NC),NC,60.0,67634.0,4058040.0
+832,Union Electric Co - (MO),MO,88.0,1206122.0,106138736.0
+833,Western Iowa Power Coop,IA,51.0,5578.0,284478.0
+835,Duke Energy Kentucky,KY,103.0,136906.0,14101318.0
+836,United Electric Coop Service Inc - (TX),TX,57.0,76477.0,4359189.0
+838,United Illuminating Co,CT,57.8,317544.0,18354043.2
+839,"Union Rural Electric Coop, Inc",OH,73.0,8743.0,638239.0
+840,Black Hills Power Inc,SD,62.96,67871.0,4273158.16
+842,Homer Electric Assn Inc,AK,626.0,29678.0,18578428.0
+844,Upper Peninsula Power Co,MI,248.0,60000.0,14880000.0
+845,Upshur Rural Elec Coop Corp,TX,892.0,44820.0,39979440.0
+846,Utilities Dist-Western IN REMC,IN,474.7,18974.0,9006957.799999999
+847,"UNS Electric, Inc",AZ,136.0,92747.0,12613592.0
+848,Verdigris Valley Elec Coop Inc,OK,297.0,35506.0,10545282.0
+849,Verendrye Electric Coop Inc,ND,77.0,16928.0,1303456.0
+851,City of Vernon,CA,37.0,1955.0,72335.0
+853,"Victoria Electric Coop, Inc",TX,13.0,21527.0,279851.0
+854,"Valley Electric Assn, Inc",NV,2.0,24496.0,48992.0
+860,Wake Electric Membership Corp,NC,83.0,36900.0,3062700.0
+862,Walton Electric Member Corp,GA,1.511,117393.0,177380.82299999997
+863,Warren Rural Elec Coop Corp,KY,80.46,61384.0,4938956.64
+865,City of Waseca - (MN),MN,30.0,4146.0,124380.0
+866,Washington Elec Member Corp,GA,265.0,14309.0,3791885.0
+867,Avista Corp,WA,139.0,368761.0,51257779.0
+868,Watertown Municipal Utilities,SD,30.0,12518.0,375540.0
+869,Waupun Utilities,WI,1.524,4262.0,6495.2880000000005
+871,Whitewater Valley Rural EMC,IN,160.909,11817.0,1901461.653
+876,West Central Electric Coop Inc - (SD),SD,58.0,6802.0,394516.0
+877,West Penn Power Company,PA,151.0,710379.0,107267229.0
+878,AEP Texas North Company,TX,88.0,187749.0,16521912.0
+879,Whetstone Valley Elec Coop Inc,SD,63.342,3401.0,215426.142
+880,Western Massachusetts Electric Company,MA,88.0,211373.0,18600824.0
+882,City of Westerville - (OH),OH,47.0,16367.0,769249.0
+884,Wheat Belt Public Power Dist,NE,247.0,5056.0,1248832.0
+885,"Wheatland Electric Coop, Inc",KS,141.0,32255.0,4547955.0
+886,Wheeling Power Co,WV,467.0,41173.0,19227791.0
+891,City of Wilson,NC,0.0,0.0,0.0
+894,"Wiregrass Electric Coop, Inc",AL,142.5,22865.0,3258262.5
+895,Wisconsin Electric Power Co,MI,63.0,27730.0,1746990.0
+896,Wisconsin Electric Power Co,WI,56.0,1104474.0,61850544.0
+898,Wisconsin Public Service Corp,MI,74.0,9200.0,680800.0
+899,Wisconsin Public Service Corp,WI,153.0,441000.0,67473000.0
+901,Withlacoochee River Elec Coop,FL,119.0,203007.0,24157833.0
+903,"Wood County Electric Coop, Inc",TX,223.0,33923.0,7564829.0
+906,Wright-Hennepin Coop Elec Assn,MN,43.0,45001.0,1935043.0
+909,Y-W Electric Assn Inc,CO,322.0,8988.0,2894136.0
+910,Wyrulec Company,NE,859.0,0.0,0.0
+911,Wyrulec Company,WY,17.0,4707.0,80019.0
+913,"Southside Electric Coop, Inc",VA,197.0,54718.0,10779446.0
+916,"Mohave Electric Cooperative, I",AZ,57.0,39332.0,2241924.0
+917,"Washington-St Tammany E C, Inc",LA,129.0,50786.0,6551394.0
+918,EnergyUnited Elec Member Corp,NC,92.0,121304.0,11159968.0
+919,Kentucky Power Co,KY,383.0,170896.0,65453168.0
+920,Westar Energy Inc,KS,101.93,366329.0,37339914.97
+921,Delta Electric Power Assn,MS,374.0,24476.0,9154024.0
+922,Clark County Rural E M C - (IN),IN,68.0,22169.0,1507492.0
+924,Tucson Electric Power Co,AZ,17.0,417286.0,7093862.0
+927,Boone County Rural EMC,IN,1.167,13246.0,15458.082
+928,Brunswick Electric Member Corp,NC,36.0,83999.0,3023964.0
+929,Cass County Elec Coop Inc,ND,46.0,38641.0,1777486.0
+930,Dakota Electric Association,MN,25.0,102043.0,2551075.0
+931,Western Indiana Energy REMC,IN,238.01,16674.0,3968578.7399999998
+932,Liberty Utilities (Granite State Electric) Corp,NH,177.469,41853.0,7427610.057
+933,Pella Cooperative Elec Assn,IA,79.0,2876.0,227204.0
+934,"Ravalli County Elec Coop, Inc",MT,222.0,9851.0,2186922.0
+936,Red River Valley Coop Pwr Assn,MN,30.0,4743.0,142290.0
+937,Town of Stowe- (VT),VT,3.0,4009.0,12027.0
+938,Todd-Wadena Electric Coop,MN,65.0,8368.0,543920.0
+942,Okefenoke Rural El Member Corp,GA,3.95,34213.0,135141.35
+943,Great Lakes Energy Coop,MI,177.0,123574.0,21872598.0
+945,"Dixie Escalante R E A, Inc",UT,48.98,16368.0,801704.6399999999
+948,North East Mississippi EPA,MS,3.3,22135.0,73045.5
+949,Minnesota Valley Coop L&P Assn,MN,36.0,5252.0,189072.0
+950,Emerald People's Utility Dist,OR,95.0,20593.0,1956335.0
+951,Columbia River Peoples Ut Dist,OR,1.0,18705.0,18705.0
+954,Southwest Iowa Rural Elec Coop,IA,62.0,5891.0,365242.0
+955,NSTAR Electric Company,MA,82.1,1161574.0,95365225.39999999
+957,Entergy Gulf States - LA LLC,LA,111.0,393336.0,43660296.0
+958,Entergy Texas Inc.,TX,144.9,418586.0,60653111.400000006
+959,Heart of Texas Electric Coop,TX,60.0,20100.0,1206000.0
+960,Black Hills/Colorado Elec.Util,CO,79.3,92246.0,7315107.8
+961,Ameren Illinois Company,IL,136.0,1232439.0,167611704.0
+962,Liberty Utilities,CA,119.0,43318.0,5154842.0
+964,PUD No 1 of Jefferson County,WA,72.0,18881.0,1359432.0
+3,Aiken Electric Coop Inc,SC,140.0,45948.0,6432720.0
+4,Alabama Power Co,AL,115.0,1444270.0,166091050.0
+6,Alaska Electric Light&Power Co,AK,105.0,15884.0,1667820.0
+7,City of Albemarle - (NC),NC,89.0,12500.0,1112500.0
+8,Albemarle Electric Member Corp,NC,2.0,12645.0,25290.0
+11,"Alfalfa Electric Coop, Inc",OK,51.0,7570.0,386070.0
+22,City of Anoka,MN,31.0,11753.0,364343.0
+23,Anza Electric Coop Inc,CA,23.0,4471.0,102833.0
+24,Appalachian Electric Coop,TN,145.0,45044.0,6531380.0
+34,BARC Electric Coop Inc,VA,118.0,12644.0,1491992.0
+40,City of Barnesville - (MN),MN,25.0,1300.0,32500.0
+43,City of Bartow - (FL),FL,15.0,11237.0,168555.0
+45,"Beauregard Electric Coop, Inc",LA,2.0,40878.0,81756.0
+48,"Big Country Electric Coop, Inc",TX,312.0,12765.0,3982680.0
+50,Benton Rural Electric Assn,WA,0.0,15432.0,0.0
+53,"Big Bend Electric Coop, Inc",WA,116.0,8583.0,995628.0
+54,"Black River Electric Coop, Inc - (SC)",SC,40.0,31632.0,1265280.0
+55,City of Black River Falls,WI,0.176,2723.0,479.248
+59,Blue Ridge Mountain EMC - (GA),GA,165.2,49714.0,8212752.8
+60,Blue Ridge Mountain EMC - (GA),NC,165.2,49714.0,8212752.8
+61,"Bluebonnet Electric Coop, Inc",TX,2.0,84613.0,169226.0
+67,City of Bowling Green - (KY),KY,71.5,28735.0,2054552.5
+70,"Broad River Electric Coop, Inc",SC,3.0,20514.0,61542.0
+76,City of Burbank Water and Power,CA,15.0,52500.0,787500.0
+80,Butler County Rural Elec Coop - (IA),IA,27.0,5069.0,136863.0
+81,"Butte Electric Coop, Inc",SD,50.0,5331.0,266550.0
+83,Central Electric Power Assn - (MS),MS,127.2,35388.0,4501353.600000001
+85,Canby Utility Board,OR,0.0,6737.0,0.0
+86,"Caney Fork Electric Coop, Inc",TN,115.8,31788.0,3681050.4
+87,"Caney Valley El Coop Assn, Inc",KS,6.0,5572.0,33432.0
+88,Cape Hatteras Elec Member Corp,NC,231.0,7554.0,1744974.0
+89,"Capital Electric Coop, Inc",ND,29.0,0.0,0.0
+93,"Carroll Electric Coop, Inc - (OH)",OH,371.0,11833.0,4390043.0
+104,Cleco Power LLC,LA,2.0,278616.0,557232.0
+107,"Central New Mexico El Coop, Inc",NM,155.0,17516.0,2714980.0
+109,"Central Texas Elec Coop, Inc",TX,77.0,37431.0,2882187.0
+113,Borough of Chambersburg,PA,6.0,11187.0,67122.0
+115,City of Chaska - (MN),MN,5.0,9887.0,49435.0
+127,Citizens Electric Co - (PA),PA,37.0,6883.0,254671.0
+134,Clay County Electric Coop Corp,AR,765.0,12105.0,9260325.0
+135,Clarke Electric Coop Inc - (IA),IA,123.0,5245.0,645135.0
+141,Clearwater-Polk Elec Coop Inc,MN,2.0,4669.0,9338.0
+149,City of Cody,WY,0.0,0.0,0.0
+153,City of College Station - (TX),TX,13.0,35756.0,464828.0
+154,City of Colorado Springs - (CO),CO,33.0,215968.0,7126944.0
+156,Calhoun County Elec Coop Assn,IA,15.0,1686.0,25290.0
+158,Co-Mo Electric Coop Inc,MO,279.0,31288.0,8729352.0
+165,Consolidated Edison Co-NY Inc,NY,19.0,3362187.0,63881553.0
+169,Continental Divide El Coop Inc,NM,245.0,23720.0,5811400.0
+173,Cornhusker Public Power Dist,NE,98.0,9637.0,944426.0
+177,PUD No 1 of Cowlitz County,WA,82.0,49000.0,4018000.0
+178,"Crawfordsville Elec, Lgt & Pwr",IN,0.0,9893.0,0.0
+179,Craighead Electric Coop Corp,AR,97.0,28899.0,2803203.0
+184,Cumberland Elec Member Corp,TN,0.0,90150.0,0.0
+185,Cuivre River Electric Coop Inc,MO,2.0,60230.0,120460.0
+186,City of Cuyahoga Falls - (OH),OH,71.0,24046.0,1707266.0
+187,"D S & O Rural E C A, Inc",KS,8.0,8335.0,66680.0
+190,Daviess Martin County R E M C,IN,313.0,8000.0,2504000.0
+192,"Deaf Smith Electric Coop, Inc",TX,148.0,13966.0,2066968.0
+194,Decatur County Rural E M C,IN,349.0,7804.0,2723596.0
+203,City of Detroit Lakes - (MN),MN,3.0,8357.0,25071.0
+204,Dixie Electric Power Assn,MS,146.0,35759.9,5220945.4
+205,Dixie Electric Membership Corp,LA,3.0,101692.0,305076.0
+207,Dubois Rural Electric Coop Inc,IN,1.0,13342.0,13342.0
+213,Duquesne Light Co,PA,75.0,589900.0,44242500.0
+214,City of Dyersburg,TN,73.6,11946.0,879225.6
+216,City of East Grand Forks - (MN),MN,8.0,4188.0,33504.0
+218,"East Kentucky Power Coop, Inc",KY,24.0,524155.0,12579720.0
+220,East-Central Iowa Rural Elec Coop,IA,86.0,8655.0,744330.0
+224,Eau Claire Electric Coop,WI,71.0,10642.0,755582.0
+231,Elkhorn Rural Public Pwr Dist,NE,29.0,9382.0,272078.0
+237,"Fairfield Electric Coop, Inc",SC,89.0,26122.0,2324858.0
+242,City of Fairhope - (AL),AL,32.0,0.0,0.0
+244,Fall River Rural Elec Coop Inc,ID,0.0,0.0,0.0
+245,Fall River Rural Elec Coop Inc,MT,0.0,0.0,0.0
+246,Fall River Rural Elec Coop Inc,WY,0.0,0.0,0.0
+247,"Farmers Electric Coop, Inc - (MO)",MO,30.0,12872.0,386160.0
+250,"Farmers Electric Coop, Inc - (NM)",NM,193.0,13035.0,2515755.0
+254,"FEM Electric Assn, Inc",SD,10726.0,2123.0,22771298.0
+263,"Duke Energy Florida, Inc",FL,89.0,1671566.0,148769374.0
+264,Florida Public Utilities Co,FL,170.0,28111.0,4778870.0
+269,Fort Pierce Utilities Authority,FL,32.0,27822.0,890304.0
+270,Four County Elec Member Corp,NC,39.0,32350.0,1261650.0
+273,PUD No 1 of Franklin County,WA,45.0,29016.0,1305720.0
+274,Franklin Rural Electric Coop - (IA),IA,156.0,1916.0,298896.0
+275,Village of Freeport - (NY),NY,1.0,14806.0,14806.0
+276,City of Fremont - (NE),NE,10.0,14361.0,143610.0
+277,Freeborn-Mower Coop Services,MN,64.0,5971.0,382144.0
+279,Gainesville Regional Utilities,FL,68.0,90980.0,6186640.0
+280,City of Gallatin - (TN),TN,0.86,16538.0,14222.68
+281,Garland Light & Power Company,WY,0.0,1952.0,0.0
+283,City of Garland - (TX),TX,16.0,69126.0,1106016.0
+284,City of Gastonia - (NC),NC,24.0,26497.0,635928.0
+287,City of Georgetown - (TX),TX,27.0,21523.0,581121.0
+288,Georgia Power Co,GA,98.0,2331980.0,228534040.0
+291,City of Glasgow - (KY),KY,0.0,7286.0,0.0
+292,City of Glendale - (CA),CA,23.0,83589.0,1922547.0
+293,Raccoon Valley Electric Cooperative,IA,46.0,2654.0,122084.0
+295,Graham County Electric Coop Inc,AZ,94.0,9161.0,861134.0
+297,City of Grand Haven - (MI),MI,275.0,13500.0,3712500.0
+299,PUD No 1 of Grays Harbor County,WA,156.0,38848.0,6060288.0
+301,Grand Valley Power,CO,70.0,17197.0,1203790.0
+302,Green Mountain Power Corp,VT,2.0,258916.0,517832.0
+306,Greenville Utilities Comm,NC,28.0,64245.0,1798860.0
+310,"Grundy Electric Coop, Inc",MO,192.0,6724.0,1291008.0
+312,Gunnison County Elec Assn.,CO,2.0,10422.0,20844.0
+313,Gulf Power Co,FL,84.0,439389.0,36908676.0
+314,Grundy County Rural Elec Coop,IA,2.0,2226.0,4452.0
+315,H-D Electric Coop Inc,SD,101.0,3489.0,352389.0
+317,Guernsey-Muskingum El Coop Inc,OH,395.0,16809.0,6639555.0
+319,NineStar Connect,IN,32.0,12933.0,413856.0
+324,City of Harrisonburg - (VA),VA,29.0,20458.0,593282.0
+327,Hartford Electric,WI,0.0,6788.0,0.0
+328,Havana Power & Light Company,FL,16.0,1378.0,22048.0
+329,Harrison County Rrl Elec Coop,IA,38.0,3712.0,141056.0
+330,Hawaii Electric Light Co Inc,HI,114.0,82074.0,9356436.0
+334,City of Healdsburg - (CA),CA,29.0,5748.0,166692.0
+337,City of Hermiston,OR,179.0,5083.0,909857.0
+339,"HILCO Electric Cooperative, Inc.",TX,120.0,24249.0,2909880.0
+343,"Holston Electric Coop, Inc",TN,99.96,30194.0,3018192.2399999998
+347,City of Homestead - (FL),FL,116.0,22500.0,2610000.0
+348,City of Hingham - (MA),MA,1.0,10000.0,10000.0
+349,Houston County Elec Coop Inc,TX,347.0,20337.0,7056939.0
+352,Town of Hudson - (MA),MA,20.0,12563.0,251260.0
+354,City of Lafayette - (LA),LA,31.0,64574.0,2001794.0
+365,Interstate Power and Light Co,IA,59.0,462983.0,27315997.0
+366,Interstate Power and Light Co,MN,63.0,41705.0,2627415.0
+375,City of Lebanon - (IN),IN,55.0,8803.0,484165.0
+377,JEA,FL,69.0,442324.0,30520356.0
+378,City of Jasper - (IN),IN,18.0,7161.0,128898.0
+379,"Jasper-Newton Elec Coop, Inc",TX,445.0,22341.0,9941745.0
+384,Joe Wheeler Elec Member Corp,AL,0.0,42249.0,0.0
+390,Kandiyohi Power Coop,MN,238.0,8335.0,1983730.0
+395,Karnes Electric Coop Inc,TX,136.0,17958.0,2442288.0
+403,City of Key West - (FL),FL,50.0,30637.0,1531850.0
+405,City of Kinston - (NC),NC,65.0,11809.0,767585.0
+406,Kissimmee Utility Authority,FL,43.0,68929.0,2963947.0
+407,PUD No 1 of Klickitat County,WA,2.0,12321.0,24642.0
+409,Kosciusko County Rural E M C,IN,2.0,17578.0,35156.0
+412,Lagrange County Rural E M C,IN,83.0,7094.0,588802.0
+415,"Laclede Electric Coop, Inc",MO,3.0,36423.0,109269.0
+419,"Lamb County Electric Coop, Inc",TX,17.0,11310.0,192270.0
+420,Lane Electric Coop Inc,OR,132.0,10584.0,1397088.0
+422,Lassen Municipal Utility District,CA,131.0,10543.0,1381133.0
+428,"Lee County Electric Coop, Inc",FL,79.0,210062.0,16594898.0
+429,City of Leesburg - (FL),FL,107.0,22775.0,2436925.0
+431,City of Lexington - (NC),NC,0.0,18952.0,0.0
+432,Licking Valley Rural E C C,KY,5451.0,17277.0,94176927.0
+433,Lincoln Electric System,NE,20.0,131915.0,2638300.0
+438,City of Longmont,CO,26.0,40261.0,1046786.0
+445,Loup River Public Power Dist,NE,15.0,19548.0,293220.0
+452,"Lyntegar Electric Coop, Inc",TX,716.0,22461.0,16082076.0
+461,"Marlboro Electric Coop, Inc",SC,156.0,6522.0,1017432.0
+463,City of Marshall - (MN),MN,2.0,6522.0,13044.0
+464,City of Marshall - (MO),MO,16.0,0.0,0.0
+467,Town of Massena - (NY),NY,18.0,9300.0,167400.0
+469,Maui Electric Co Ltd,HI,94.0,69303.0,6514482.0
+471,McMinnville Electric System,TN,20.42,8114.0,165687.88
+481,"Medina Electric Coop, Inc",TX,344.0,29000.0,9976000.0
+482,City of Memphis - (TN),TN,165.0,407014.0,67157310.0
+485,Meriwether Lewis Electric Coop,TN,3.334,33634.0,112135.75600000001
+492,Menard Electric Coop,IL,389.0,10848.0,4219872.0
+493,Midland Power Coop,IA,128.0,11319.0,1448832.0
+496,Middle Tennessee E M C,TN,81.92,198232.0,16239165.44
+504,Minnesota Valley Electric Coop,MN,28.0,36247.0,1014916.0
+505,Village of Minster - (OH),OH,7.0,1366.0,9562.0
+507,Mississippi Power Co,MS,55.0,186330.0,10248150.0
+516,Morgan County Rural Elec Assn,CO,125.0,7728.0,966000.0
+517,Moon Lake Electric Assn Inc,CO,108.0,2369.0,255852.0
+518,Moon Lake Electric Assn Inc,UT,108.0,16285.0,1758780.0
+521,City of Morganton - (NC),NC,29.0,8230.0,238670.0
+522,City of Morristown - (TN),TN,77.68,14117.0,1096608.56
+523,Village of Morrisville - (VT),VT,1.0,3859.0,3859.0
+527,Mt Carmel Public Utility Co,IL,61.0,5640.0,344040.0
+529,"Mountain View Elec Assn, Inc",CO,57.0,48097.0,2741529.0
+532,Board of Water Electric & Communications,IA,1.0,11291.0,11291.0
+535,City of Naperville - (IL),IL,36.0,57674.0,2076264.0
+537,Nashville Electric Service,TN,101.32,355889.0,36058673.48
+538,Natchez Trace Elec Power Assn,MS,147.94,15776.0,2333901.44
+546,New Hampshire Elec Coop Inc,NH,6.0,79269.0,475614.0
+549,New Prague Utilities Comm,MN,2.0,2542.0,5084.0
+551,New Ulm Public Utilities Comm,MN,0.0,7420.0,0.0
+552,New York State Elec & Gas Corp,NY,2.0,859531.0,1719062.0
+553,"Newberry Electric Coop, Inc",SC,85.0,12627.0,1073295.0
+557,Northern Virginia Elec Coop,VA,41.0,147979.0,6067139.0
+561,Nishnabotna Valley R E C,IA,78.0,4986.0,388908.0
+565,North Central MO Elec Coop Inc,MO,3.0,5709.0,17127.0
+567,North Central Public Pwr Dist,NE,52.0,5505.0,286260.0
+568,North Itasca Electric Coop Inc,MN,700.0,5300.0,3710000.0
+571,City of North St Paul - (MN),MN,1.0,6473.0,6473.0
+574,North Plains Electric Coop Inc,TX,482.0,6889.0,3320498.0
+575,"Northern Lights, Inc",ID,367.0,17654.0,6479018.0
+580,Northeast Louisiana Power Coop Inc.,LA,3.0,33276.0,99828.0
+584,Nueces Electric Cooperative,TX,6.0,968.0,5808.0
+586,"Northfork Electric Coop, Inc",OK,1.0,6798.0,6798.0
+589,Oconomowoc Utilities,WI,16.614,8889.0,147681.84600000002
+594,Oklahoma Gas & Electric Co,AR,114.0,67562.0,7702068.0
+595,Oklahoma Gas & Electric Co,OK,112.0,735020.0,82322240.0
+597,"Oregon Trail El Cons Coop, Inc",OR,2.0,29788.0,59576.0
+598,Omaha Public Power District,NE,66.0,353185.0,23310210.0
+599,Orange & Rockland Utils Inc,NY,86.0,220471.0,18960506.0
+602,"P K M Electric Coop, Inc",MN,98.0,3700.0,362600.0
+621,"Panola-Harrison Elec Coop, Inc",LA,3.0,9705.0,29115.0
+622,City of Paris - (TN),TN,0.0,20397.0,0.0
+629,Orlando Utilities Comm,FL,38.0,216366.0,8221908.0
+630,"Pedernales Electric Coop, Inc",TX,65.0,256072.0,16644680.0
+631,PUD No 1 of Pend Oreille County,WA,320.0,8818.0,2821760.0
+632,Peninsula Light Company,WA,56.0,30743.0,1721608.0
+640,Pickwick Electric Coop,TN,90.24,20513.0,1851093.1199999999
+642,Pike County Light & Power Co,PA,253.0,4495.0,1137235.0
+647,Pointe Coupee Elec Member Corp,LA,3.0,10381.0,31143.0
+656,Prairie Energy Coop,IA,55.0,4260.0,234300.0
+659,Plumas-Sierra Rural Elec Coop,CA,4.0,7730.0,30920.0
+664,PUD No 3 of Mason County,WA,108.0,32498.0,3509784.0
+677,City of Redding - (CA),CA,24.0,43075.0,1033800.0
+682,"Rio Grande Electric Coop, Inc",TX,0.0,11093.0,0.0
+684,"Rita Blanca Electric Coop, Inc",TX,442.0,7297.0,3225274.0
+690,Rochester Gas & Electric Corp,NY,1.0,365870.0,365870.0
+691,Rockland Electric Co,NJ,72.0,71201.0,5126472.0
+692,Village of Rockville Centre - (NY),NY,65.0,10143.0,659295.0
+702,Sacramento Municipal Util Dist,CA,47.0,607727.0,28563169.0
+703,Salem Electric - (OR),OR,20.0,18759.0,375180.0
+706,"San Luis Valley R E C, Inc",CO,130.0,12075.0,1569750.0
+710,Access Energy Coop,IA,150.0,9158.0,1373700.0
+712,"San Isabel Electric Assn, Inc",CO,2.0,23872.0,47744.0
+715,Sangre De Cristo Elec Assn Inc,CO,59.0,11798.0,696082.0
+718,Scenic Rivers Energy Coop,WI,42.0,13733.0,576786.0
+720,SEMO Electric Cooperative,MO,5.0,15937.0,79685.0
+721,City of Seaford- (DE),DE,72.0,3742.1,269431.2
+725,City of Seguin - (TX),TX,4.0,8200.0,32800.0
+728,Sevier County Electric System,TN,0.0,55351.0,0.0
+730,Sharyland Utilities LP,TX,3.0,52014.0,156042.0
+732,RushShelby Energy,IN,246.0,14367.0,3534282.0
+740,North West Rural Electric Coop,IA,112.0,9610.0,1076320.0
+745,PUD 1 of Snohomish County,WA,60.0,354090.0,21245400.0
+751,South River Elec Member Corp,NC,130.0,42835.0,5568550.0
+753,Southeastern Electric Coop Inc - (OK),OK,4.0,14027.0,56108.0
+755,Southern Illinois Elec Coop,IL,165.0,11410.0,1882650.0
+756,Southern Indiana Gas & Elec Co,IN,48.0,148000.0,7104000.0
+759,Southern Pine Elec Power Assn,MS,186.0,65455.0,12174630.0
+760,Southwest Louisiana E M C,LA,2.0,102772.0,205544.0
+761,Southwest Tennessee E M C,TN,0.0,49527.0,0.0
+773,City of St Charles - (IL),IL,36.0,15555.0,559980.0
+775,City of St George,UT,43.0,28297.0,1216771.0
+778,Stanton County Public Pwr Dist,NE,16.0,2757.0,44112.0
+785,Steuben County Rural E M C,IN,250.0,9722.0,2430500.0
+786,"Steuben Rural Elec Coop, Inc",NY,206.0,6277.0,1293062.0
+787,Stillwater Utilities Authority,OK,31.0,20523.0,636213.0
+790,Strawberry Electric Serv Dist,UT,42.0,3310.0,139020.0
+792,"Sumter Electric Coop, Inc",FL,79.0,183266.0,14478014.0
+793,Sun Prairie Utilities,WI,51.753,13625.0,705134.625
+798,"Sun River Electric Coop, Inc",MT,3.0,5657.0,16971.0
+799,City of Tacoma  - (WA),WA,64.0,162546.0,10402944.0
+803,Tampa Electric Co,FL,85.0,700537.0,59545645.0
+804,City of Taunton,MA,4.0,36500.0,146000.0
+816,"Tri-County Electric Coop, Inc",TX,62.0,95397.0,5914614.0
+817,"Tri-County Electric Coop, Inc",OK,184.0,22729.0,4182136.0
+822,Diverse Power Incorporated,AL,1.0,28845.0,28845.0
+823,Diverse Power Incorporated,GA,80.0,28845.0,2307600.0
+825,Tullahoma Board-Public Utils,TN,54.11,10936.0,591746.96
+826,Turlock Irrigation District,CA,89.0,84700.0,7538300.0
+830,Tri-County Electric Coop,MI,259.0,25616.0,6634544.0
+834,"Southern Indiana R E C, Inc",IN,1.0,9190.0,9190.0
+837,Union County Electric Coop Inc,SD,89.0,1566.0,139374.0
+841,Hawaiian Electric Co Inc,HI,122.0,298920.0,36468240.0
+843,Upper Cumberland E M C,TN,82.504,48217.0,3978095.3680000002
+852,City of Vero Beach - (FL),FL,33.0,44291.0,1461603.0
+855,Virginia Electric & Power Co,NC,110.0,121330.0,13346300.0
+856,Virginia Electric & Power Co,VA,106.0,2358445.0,249995170.0
+858,Wabash County Rural E M C,IN,168.0,5385.0,904680.0
+861,Town of Wallingford - (CT),CT,29.0,24738.0,717402.0
+864,City of Warroad,MN,0.0,890.0,0.0
+870,Waverly Municipal Elec Utility,IA,1.0,4694.0,4694.0
+872,Weakley County Mun Elec Sys,TN,181.094,20364.0,3687798.216
+874,Webster Electric Coop,MO,20.0,19550.0,391000.0
+875,Wellsborough Electric Co,PA,39.0,6231.0,243009.0
+883,City of Westfield - (MA),MA,1.0,18263.0,18263.0
+887,"White River Electric Assn, Inc",CO,16.0,3307.0,52912.0
+889,"Wild Rice Electric Coop, Inc",MN,134.0,13800.0,1849200.0
+897,Wisconsin Power & Light Co,WI,72.0,478961.0,34485192.0
+900,Wisconsin Rapids W W & L Comm,WI,4.0,13982.0,55928.0
+904,Wise Electric Coop Inc,TX,3.0,20675.0,62025.0
+905,Woodbury County Rural E C A,IA,64.0,3216.0,205824.0
+907,City of Worthington - (MN),MN,4.0,5345.0,21380.0
+914,"Fergus Electric Coop, Inc",MT,90.0,6195.0,557550.0
+923,"Sierra Electric Coop, Inc",NM,112.0,4146.0,464352.0
+925,City of Escanaba,MI,45.0,7139.0,321255.0
+926,Unitil Energy Systems,NH,119.0,75492.0,8983548.0
+939,Kerrville Public Utility Board,TX,32.0,21969.0,703008.0
+944,Texas-New Mexico Power Co,TX,42.0,229512.0,9639504.0
+946,Rappahannock Electric Coop,VA,112.0,152750.0,17108000.0
+947,"Forked Deer Electric Coop, Inc",TN,248.09,9854.0,2444678.86
+952,City of Grand Island - (NE),NE,6.0,24547.0,147282.0
+953,Oncor Electric Delivery Company LLC,TX,102.0,3223735.0,328820970.0
+956,City of Moreno Valley - (CA),CA,13.0,5814.0,75582.0
+963,City of Winter Park - (FL),FL,66.0,13991.0,923406.0
