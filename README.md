@@ -1,7 +1,7 @@
 # StateSAIDI2013
 Data, methodology, and code behind, "IE Questions: How Long Is Your Blackout?"
 
-This repository includes the analyzed data and behind the story, ["IE Questions: How Long Is Your Blackout?"]().
+This repository includes the analyzed data and behind the story, ["IE Questions: How Long Is Your Blackout?"](http://insideenergy.org/2015/03/20/ie-questions-how-long-is-your-blackout/).
 
 File Directory:
 *  SAIDI SAIFI Analysis 2013.ipynb is an IPython notebook containing the code used to calculate state SAIDI averages with and without major event days. [View it here.](http://nbviewer.ipython.org/gist/jwirfs-brock/ce59704a2f0eac608981)
